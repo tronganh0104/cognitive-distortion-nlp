@@ -20,7 +20,7 @@ Khóa luận được xây dựng dựa trên:
 
 ---
 
-## 📊 Dữ liệu
+## Dữ liệu
 - **Bộ dữ liệu**: Dịch từ các bộ dữ liệu: C2D2 (Cognitive Distortion Dialogue Dataset), Da Dataset (Generalizable Cross-Lingual Cognitive Distortion Detection), PsyQA (Detection and Positive Reconstruction of Cognitive Distortions in Text)
 - **Loại dữ liệu**: Dữ liệu câu đơn từ các tình huống trong cuộc sống tiếng Việt 
 - **Nhãn**: Các loại sai lệch nhận thức phổ biến
